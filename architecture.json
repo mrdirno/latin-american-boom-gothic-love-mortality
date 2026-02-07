@@ -1,0 +1,161 @@
+{
+  "book_id": "latin_american_boom_gothic_love_mortality",
+  "title": "The Library of Broken Threads",
+  "tagline": "In a decaying mansion, a cursed book reveals the moment love becomes a ghost.",
+  "target_words": 70000,
+  "actual_words": 73104,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Haunting of History",
+    "Love as a Terminal Illness",
+    "The Gothic Archive",
+    "Cursed Inheritance",
+    "Translating the Unspeakable"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Dress in the River",
+      "words": 3046
+    },
+    {
+      "ch": 2,
+      "title": "The Man from Cádiz",
+      "words": 3046
+    },
+    {
+      "ch": 3,
+      "title": "The Skin of the Book",
+      "words": 3046
+    },
+    {
+      "ch": 4,
+      "title": "Whispers in the Stacks",
+      "words": 3046
+    },
+    {
+      "ch": 5,
+      "title": "The Magistrate's Sin",
+      "words": 3046
+    },
+    {
+      "ch": 6,
+      "title": "Soledad's Vigil",
+      "words": 3046
+    },
+    {
+      "ch": 7,
+      "title": "The First Resonance",
+      "words": 3046
+    },
+    {
+      "ch": 8,
+      "title": "A Ghost in the Garden",
+      "words": 3046
+    },
+    {
+      "ch": 9,
+      "title": "The Fever Dream",
+      "words": 3046
+    },
+    {
+      "ch": 10,
+      "title": "Catalina's Bargain",
+      "words": 3046
+    },
+    {
+      "ch": 11,
+      "title": "The River's Memory",
+      "words": 3046
+    },
+    {
+      "ch": 12,
+      "title": "The Unraveling",
+      "words": 3046
+    },
+    {
+      "ch": 13,
+      "title": "León's Confession",
+      "words": 3046
+    },
+    {
+      "ch": 14,
+      "title": "The Second Thread",
+      "words": 3046
+    },
+    {
+      "ch": 15,
+      "title": "Emilio's Folly",
+      "words": 3046
+    },
+    {
+      "ch": 16,
+      "title": "The Mirror Chamber",
+      "words": 3046
+    },
+    {
+      "ch": 17,
+      "title": "A Choice in 1789",
+      "words": 3046
+    },
+    {
+      "ch": 18,
+      "title": "The Sound of a Cut",
+      "words": 3046
+    },
+    {
+      "ch": 19,
+      "title": "Borrowed Time",
+      "words": 3046
+    },
+    {
+      "ch": 20,
+      "title": "The Ashes Speak",
+      "words": 3046
+    },
+    {
+      "ch": 21,
+      "title": "To Mend or To Burn",
+      "words": 3046
+    },
+    {
+      "ch": 22,
+      "title": "The Last Vigil",
+      "words": 3046
+    },
+    {
+      "ch": 23,
+      "title": "The New Thread",
+      "words": 3046
+    },
+    {
+      "ch": 24,
+      "title": "What the River Keeps",
+      "words": 3046
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of the house, La Ceniza, describing a memory it holds of a past love or death.",
+      "Create an entry from *El Libro de los Hilos Rotos* for a minor character mentioned in passing (e.g., the tax assessor, Father Alonso).",
+      "Write a letter from Soledad to Tomás, written before his disappearance, that foreshadows the novel's themes.",
+      "Draft a folktale from the local jungle, told by a side character, that mirrors the central curse of the Sombra family."
+    ],
+    "technical": [
+      "Build a 'Resonance Index' web tool that allows users to explore fictional entries from the *Book of Broken Threads* by emotional 'sound'.",
+      "Create a visual generator that produces 'Gothic manuscript' images of text on skin-like parchment, using the novel's described script."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Gabriel García Márquez",
+      "Silvina Ocampo",
+      "Juan Rulfo",
+      "Jorge Luis Borges"
+    ]
+  },
+  "cover_prompt": "A spectral woman, her form woven from unraveling book bindings and fading ink, reaches through the shelves of a vast, decaying library, her fingers dissolving into moths that carry fragments of tragic love letters, [within the oppressive grandeur of a forgotten mansion library where books bleed rust and dust hangs like a shroud, shelves sag under the weight of cursed histories, and ghostly whispers manifest as silver threads snagged on broken spines], in the atmospheric style of Remedios Varo blended with the haunting, textured melancholy of Zdzisław Beksiński and the magical realism of Leonora Carrington, [book cover framing, a centered and symmetrical composition looking down a long, endless library corridor, a dramatic low-angle shot that emphasizes the towering, oppressive shelves and the vanishing point of lost time], [dramatic chiaroscuro lighting with a single, dying beam of cold moonlight slicing through the dust, color palette of deep library greens, oxidized copper, parchment yellow, arterial crimson threads, and monochromatic shadows], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
