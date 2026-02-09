@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The priest refused to bury my mother in the dress she was found wearing. It was the one she wore the night she met my father, the silk still holding the ghost of his cigar smoke and the jasmine from her hair. To inter her in it, he said, would be to consecrate the sin. So I stole it back from the mortuary, the fabric cold as a confession against my skin.
@@ -95,6 +97,8 @@ I left them there, two men surrounded by shadows and the smell of rot and aguard
 
 It was not a kindness. It was a warning. Some things are rejected by the deep.
 
+# Chapter 2
+
 ## **Chapter 2**
 
 Dawn at La Ceniza was not a sunrise but a slow, green leakage. Light didn’t break; it seeped through the canopy, diluted by a million leaves, arriving in the house tired and moss-colored. The library, however, existed in perpetual twilight.
@@ -174,6 +178,8 @@ It was mine.
 *Catalina*.
 
 And beside it, two words: *la sucesora*. The successor.
+
+# Chapter 3
 
 ## **Chapter 3**
 
