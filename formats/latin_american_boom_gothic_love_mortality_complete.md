@@ -2,7 +2,9 @@
 
 ## **Chapter 1**
 
-The priest refused to bury my mother in the dress she was found wearing. It was the one she wore the night she met my father, the silk still holding the ghost of his cigar smoke and the jasmine from her hair. To inter her in it, he said, would be to consecrate the sin. So I stole it back from the mortuary, the fabric cold as a confession against my skin.
+Isabela’s wedding dress arrived in a coffin-shaped box.
+
+
 
 
 I watched her from the veranda, the ghost of her teacup warm in my hands. The air was the same temperature as blood. It was the hour when the light bled out of the sky and the world turned monochrome, all greens and blacks and the bruised purple of distant mountains. The house behind me—La Ceniza, The Ashes—breathed a damp, wooden sigh. It was a colonial skeleton, its whitewash peeling like a sunburn, its bones full of the whispers of termites. It had been in our family since the Conquest, or so the story went. A story, like all our stories, that was probably a lie wrapped in a truth, buried in silt.
